@@ -1,4 +1,4 @@
-food_items = ['meat','egusi','pepper','tomatoes','fish']
+gifood_items = ['meat','egusi','pepper','tomatoes','fish']
 
 print(food_items[2])
 
@@ -21,5 +21,5 @@ food_items.reverse()
 
 food_items = []
 
-print(food_items)
+print(food_items[1::1])
 
